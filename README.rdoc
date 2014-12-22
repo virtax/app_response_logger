@@ -16,4 +16,4 @@ Usage:
 
 Add app_response_logger to your Gemfile.
 
-gem 'app_response_logger', :group => [:development, :test]
+`gem 'app_response_logger', :group => [:development, :test]`

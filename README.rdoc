@@ -16,4 +16,17 @@ Usage:
 
 Add app_response_logger to your Gemfile.
 
-`gem 'app_response_logger', :group => [:development, :test]`
+
+```json
+   // code for coloring
+```
+```html
+   // code for coloring
+```
+```js
+   // code for coloring
+```
+```css
+   // code for coloring
+```
+// etc.

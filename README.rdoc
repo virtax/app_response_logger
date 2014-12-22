@@ -1,0 +1,9 @@
+= Reponse logger for Rails
+
+Log reponse.body after every request with pretty json.
+
+Usage:
+
+Add app_response_logger to your Gemfile.
+
+gem 'app_response_logger', :group => [:development, :test]

@@ -15,18 +15,4 @@ Log reponse.body after every request with pretty json.
 Usage:
 
 Add app_response_logger to your Gemfile.
-
-
-```json
-   // code for coloring
-```
-```html
-   // code for coloring
-```
-```js
-   // code for coloring
-```
-```css
-   // code for coloring
-```
-// etc.
+    gem 'app_response_logger', :group => [:development, :test]

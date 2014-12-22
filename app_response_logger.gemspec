@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = AppResponseLogger::VERSION
   s.authors     = ["Dmitriy Partsyrniy"]
   s.email       = ["partsirniy@mail.ru"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/virtax/app_response_logger"
   s.summary     = "Reponse logger for Rails"
   s.description = "Log reponse.body after every request with pretty json."
   s.license     = "MIT"

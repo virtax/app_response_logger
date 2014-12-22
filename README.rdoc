@@ -2,6 +2,16 @@
 
 Log reponse.body after every request with pretty json.
 
+    Started GET "/api" for 127.0.0.1 at 2014-12-22 02:52:55 +0200
+    Processing by MyController#api as HTML
+    Responded with: {
+      "name": "AppResponseLogger",
+      "version": "0.0.1",
+      "some_number": 123
+    }
+    Completed 200 OK in 1ms (Views: 0.4ms)
+
+
 Usage:
 
 Add app_response_logger to your Gemfile.
